@@ -1,0 +1,41 @@
+.container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Arial", sans-serif;
+}
+
+.title {
+  font-size: 2rem;
+  color: #bb403b;
+}
+
+.input {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 80%;
+  max-width: 400px;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #bb403b;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #e03e00;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #ff6347;
+}
